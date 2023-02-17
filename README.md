@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I’m **Vikash!** I’m a web developer with in-depth practice in UI/UX design.I developed and hosted many websites using real time technologies.The main languages/techs in my tech stack are  ✨ JavaScript, React js, Node js,Express js, Redux, MongoDb  ✨ and of course bootstrap, HTML/CSS. I’m a lifelong learner (currently learning Typescript!) and love to read.
 
-**gitsforvikki/gitsforvikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
