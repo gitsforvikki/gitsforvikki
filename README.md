@@ -30,14 +30,14 @@ I’m a web developer with in-depth practice in UI/UX design.I developed and hos
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- github stats -->
+
+<!-- [![vikash's github stats](https://github-readme-stats.vercel.app/api?username=gitsforvikki&count_private=true&show_icons=true&theme=radical&hide_rank=false)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki))
 
 
-[![vikash's github stats](https://github-readme-stats.vercel.app/api?username=gitsforvikki&count_private=true&show_icons=true&theme=radical&hide_rank=false)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki))
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsforvikki)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsforvikki)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki)) -->
 
 <details open="">
 <summary>
@@ -52,6 +52,8 @@ I’m a web developer with in-depth practice in UI/UX design.I developed and hos
 </p>
 </details>
 <br/>
+
+
 
 
 
