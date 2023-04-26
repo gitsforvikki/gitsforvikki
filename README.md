@@ -20,7 +20,7 @@ I’m a web developer with in-depth practice in UI/UX design.I developed and hos
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
 
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,7 +29,7 @@ I’m a web developer with in-depth practice in UI/UX design.I developed and hos
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: IMPOSSIBLE, the word itself says I'M POSSIBLE
-
+ -->
 <!-- github stats -->
 
 <!-- [![vikash's github stats](https://github-readme-stats.vercel.app/api?username=gitsforvikki&count_private=true&show_icons=true&theme=radical&hide_rank=false)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki))
