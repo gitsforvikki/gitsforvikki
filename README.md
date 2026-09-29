@@ -236,8 +236,15 @@ I'm continuously improving my understanding of **distributed systems, deployment
 
 
 ---
-
 ## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gitsforvikki/gitsforvikki/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 
 
