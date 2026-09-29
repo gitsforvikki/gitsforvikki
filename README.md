@@ -1,73 +1,252 @@
-<!-- ### Hi there 👋 -->
 <h1 align="center">
-    Hi 👋, I'm Vikash kumar
+  Hi 👋, I'm Vikash Kumar
 </h1>
-<br/>
-<br/>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+web+developer+from+India" alt="Welcome to my GitHub Profile. I’m a passionate Front-end Developer from India." />
-</p>
-
-<!-- <h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://utkarshpathrabe.com/'>My Portfolio Website</a>
-</h3> -->
-
-I’m a web developer with in-depth practice in UI/UX design.I developed and hosted many websites using real time technologies.The main languages/techs in my tech stack are  ✨ JavaScript, React js, Node js,Express js, Redux, MongoDb  ✨ and of course bootstrap, HTML/CSS. I’m a lifelong learner (currently learning Typescript!) and love to read.
-
-
-
-<img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
-
-
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about React & Javascript
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: IMPOSSIBLE, the word itself says I'M POSSIBLE
- -->
-<!-- github stats -->
-
-<!-- [![vikash's github stats](https://github-readme-stats.vercel.app/api?username=gitsforvikki&count_private=true&show_icons=true&theme=radical&hide_rank=false)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki))
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsforvikki)]([https://github.com/gitsforvikki/github-readme-stats](https://github.com/gitsforvikki)) -->
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-    
-  
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsforvikki&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsforvikki&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=54A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+%26+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+DevOps" alt="Typing introduction" />
 </p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-54A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** focused on building modern, scalable and user-friendly web applications.
+
+I work across the complete development lifecycle — from designing responsive interfaces and building REST APIs to database integration, authentication, payments, containerization and deployment.
+
+```text
+Frontend       → React.js • Next.js • JavaScript • TypeScript • Redux
+Backend        → Node.js • Express.js • REST APIs
+Databases      → MongoDB • PostgreSQL
+DevOps         → Docker • Kubernetes • Jenkins • Linux
+Other          → SEO • Web Performance • Authentication • Payments
+```
+
+I enjoy solving real-world engineering problems and turning ideas into production-ready applications.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 CodeBuddy</h3>
+
+<p align="center">
+  Developer networking & collaboration platform
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,docker" />
+</p>
+
+* 🔐 Authentication & authorization
+* 💬 Real-time communication
+* 🤝 Developer connections
+* 💳 Premium payments
+* 📧 Email notifications
+* 🐳 Dockerized architecture
+
+<p align="center">
+  <a href="YOUR_CODEBUDDY_DEMO">Live Demo</a> •
+  <a href="YOUR_CODEBUDDY_REPO">Source Code</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 ShopHub</h3>
+
+<p align="center">
+  Full-stack e-commerce platform
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,tailwind" />
+</p>
+
+* 🛍️ Product & cart management
+* 🔐 Authentication
+* 👤 User & order management
+* 💳 Payment integration
+* ☁️ Cloud image uploads
+* ⚡ Next.js App Router
+
+<p align="center">
+  <a href="YOUR_SHOPHUB_DEMO">Live Demo</a> •
+  <a href="YOUR_SHOPHUB_REPO">Source Code</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Micro Frontends
+      ↓
+Containerization with Docker
+      ↓
+Kubernetes
+      ↓
+CI/CD with Jenkins
+      ↓
+System Design & Scalable Architecture
+```
+
+I'm continuously improving my understanding of **distributed systems, deployment architecture, performance and scalable application design**.
+
+---
+
+## 🏗️ How I Think About Full-Stack Applications
+
+```text
+                    👤 User
+                      │
+                      ▼
+              ┌───────────────┐
+              │ React / Next  │
+              │   Frontend    │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ REST API /    │
+              │ Server Logic  │
+              └───────┬───────┘
+                      │
+              ┌───────┴───────┐
+              ▼               ▼
+        ┌──────────┐     ┌───────────┐
+        │ MongoDB  │     │ PostgreSQL│
+        └──────────┘     └───────────┘
+                      │
+                      ▼
+                ┌───────────┐
+                │  Docker   │
+                └─────┬─────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ Kubernetes /  │
+              │    Jenkins    │
+              └───────────────┘
+```
+
+---
+
+## ⚡ What I Like Building
+
+* 🚀 Full-stack web applications
+* ⚛️ Modern React & Next.js applications
+* 🔌 REST APIs and backend services
+* 🔐 Authentication & authorization systems
+* 💳 Payment integrations
+* 💬 Real-time applications
+* 🐳 Containerized applications
+* 🔄 CI/CD pipelines
+* 🔍 SEO-friendly & performant websites
+
+---
+
+<details>
+<summary><strong>📚 More About Me</strong></summary>
+
+<br/>
+
+* 💻 Full Stack Developer
+* ⚛️ Strong focus on React.js & Next.js
+* 🔧 Hands-on backend development with Node.js & Express
+* 🗄️ Experience with MongoDB & PostgreSQL
+* 🐳 Working with Docker and containerized applications
+* ☸️ Exploring Kubernetes
+* 🔄 Learning and implementing CI/CD with Jenkins
+* 🧩 Exploring Micro Frontend architecture
+* 🧠 Interested in system design and scalable architectures
+* 🌱 Always learning and building
+
 </details>
-<br/>
+
+---
+
+## 📊 GitHub Stats
 
 
 
-<br/>
+---
+
+## 📈 GitHub Activity
 
 
 
+---
 
-    
-    
-  
-
+## 🐍 Contribution Graph
 
 
 
+---
 
+## 🤝 Let's Connect
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=gitsforvikki&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-54A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Building, learning, and solving problems — one project at a time.</i>
+</p>
