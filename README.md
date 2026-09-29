@@ -213,6 +213,24 @@ I'm continuously improving my understanding of **distributed systems, deployment
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="./profile/stats.svg"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="./profile/top-langs.svg"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ---
