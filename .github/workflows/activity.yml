@@ -3,6 +3,7 @@ name: Update Activity Graph
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -13,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
