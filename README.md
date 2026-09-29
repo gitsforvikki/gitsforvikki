@@ -63,8 +63,9 @@ I enjoy solving real-world engineering problems and turning ideas into productio
 * 🐳 Dockerized architecture
 
 <p align="center">
-  <a href="YOUR_CODEBUDDY_DEMO">Live Demo</a> •
-  <a href="YOUR_CODEBUDDY_REPO">Source Code</a>
+  <a href="https://codebuddydev.vercel.app/">Live Demo</a> •
+  <a href="https://github.com/gitsforvikki/codeBuddy-web">Frontend Source Code</a> •
+  <a href="https://github.com/gitsforvikki/codeBuddy">Backend Source Code</a>
 </p>
 
 </td>
@@ -89,8 +90,8 @@ I enjoy solving real-world engineering problems and turning ideas into productio
 * ⚡ Next.js App Router
 
 <p align="center">
-  <a href="YOUR_SHOPHUB_DEMO">Live Demo</a> •
-  <a href="YOUR_SHOPHUB_REPO">Source Code</a>
+  <a href="https://shophub-online.vercel.app/">Live Demo</a> •
+  <a href="https://github.com/gitsforvikki/e-commerce-app">Source Code</a>
 </p>
 
 </td>
@@ -273,24 +274,6 @@ I'm continuously improving my understanding of **distributed systems, deployment
 
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-54A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 <p align="center">
   <i>Building, learning, and solving problems — one project at a time.</i>
