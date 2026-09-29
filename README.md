@@ -102,23 +102,25 @@ I enjoy solving real-world engineering problems and turning ideas into productio
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&perline=8" />
 
 ### ⚙️ Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=8" />
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & CI/CD
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux&perline=8" />
+
+### 🧩 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,figma&perline=8" />
+
+</div>
 
 ---
 
